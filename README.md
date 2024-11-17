@@ -1,4 +1,6 @@
-![CK Git Manager](./app-icon.png)
+<div align="center">
+  <img src="./app-icon.png" alt="CK Git Manager" />
+</div>
 
 # CK Git Manager
 
