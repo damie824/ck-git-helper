@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./app-icon.png" alt="CK Git Manager" />
+  <img src="./app-icon.png" alt="CK Git Manager" style="width: 100px; height: 100px;" />
 </div>
 
 # CK Git Manager
